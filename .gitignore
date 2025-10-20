@@ -83,3 +83,4 @@ models/*.joblib
 # Documentation
 docs/_build/
 site/
+credentials.json
