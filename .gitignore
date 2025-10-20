@@ -29,6 +29,7 @@ env/
 ENV/
 env.bak/
 venv.bak/
+env
 
 # IDEs
 .vscode/
@@ -43,6 +44,7 @@ venv.bak/
 .env.*.local
 
 # Google Credentials
+credentials.json
 *-credentials.json
 service-account*.json
 
