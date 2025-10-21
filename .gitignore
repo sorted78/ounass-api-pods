@@ -86,3 +86,4 @@ models/*.joblib
 docs/_build/
 site/
 credentials.json
+env-copy.txt
